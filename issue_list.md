@@ -177,240 +177,464 @@ package dataload
 
 ## Task列表
 
-### Task 0
-类别：添加或规范化License信息
-
-位置：`api/v1alpha1/alluxioruntime_types.go`
-
-内容：在该文件头部添加或规范化License信息
-
 ### Task 1
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/common.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/webhook/plugins/mountpropagationinjector/mount_propagation_injector.go`
 
 ### Task 2
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/constant.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/webhook/plugins/mountpropagationinjector/mount_propagation_injector_test.go`
 
 ### Task 3
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/container_network_test.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/webhook/scheduler/mutating/utils.go`
 
 ### Task 4
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/container_network.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/dump/dump.go`
 
 ### Task 5
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/databackup_types.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/csi/updatedbconf/register.go`
 
 ### Task 6
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/dataload_types.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/csi/updatedbconf/updatedbconf.go`
 
 ### Task 7
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/dataset_types.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/csi/updatedbconf/updatedbconf_test.go`
 
 ### Task 8
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/goosefsruntime_types.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/csi/plugins/controller.go`
 
 ### Task 9
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/groupversion_info.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/csi/plugins/driver.go`
 
 ### Task 10
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/jindoruntime_types.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/csi/plugins/nodeserver.go`
 
 ### Task 11
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/juicefsruntime_types.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/factory.go`
 
 ### Task 12
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/status.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/eac/transform_test.go`
 
 ### Task 13
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/thinruntime_types.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/eac/transform_port_test.go`
 
 ### Task 14
-类别：添加或规范化License信息
 
-位置：`api/v1alpha1/thinruntimeprofile_types.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/eac/ufs_test.go`
 
 ### Task 15
-类别：添加或规范化License信息
 
-位置：`hack/sdk/main.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/eac/transform_option_test.go`
 
 ### Task 16
-类别：添加或规范化License信息
 
-位置：`pkg/application/inject/fuse/container_test.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/eac/transform_image_test.go`
 
 ### Task 17
-类别：添加或规范化License信息
 
-位置：`pkg/application/inject/fuse/container.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/types_selector.go`
 
 ### Task 18
-类别：添加或规范化License信息
 
-位置：`pkg/application/inject/fuse/injector_runtime_test.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/replicas.go`
 
 ### Task 19
-类别：添加或规范化License信息
 
-位置：`pkg/application/inject/fuse/injector_test.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/transform_resources.go`
 
 ### Task 20
-类别：添加或规范化License信息
 
-位置：`pkg/application/inject/fuse/injector.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/transform_test.go`
 
 ### Task 21
-类别：添加或规范化License信息
 
-位置：`pkg/application/inject/injector.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/metadata.go`
 
 ### Task 22
-类别：添加或规范化License信息
 
-位置：`pkg/controllers/v1alpha1/alluxio/alluxio_runtime_controller.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/utils_test.go`
 
 ### Task 23
-类别：添加或规范化License信息
 
-位置：`pkg/controllers/v1alpha1/alluxio/implement.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/deprecated_label.go`
 
 ### Task 24
-类别：添加或规范化License信息
 
-位置：`pkg/controllers/v1alpha1/alluxio/suite_test.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/api_gateway.go`
 
 ### Task 25
-类别：添加或规范化License信息
 
-位置：`pkg/controllers/v1alpha1/databackup/databackup_controller.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/transform_permission_test.go`
 
 ### Task 26
-类别：添加或规范化License信息
 
-位置：`pkg/controllers/v1alpha1/databackup/implement.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/transform_ufs_test.go`
 
 ### Task 27
-类别：添加或规范化License信息
 
-位置：`pkg/controllers/v1alpha1/dataload/dataload_controller.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/types.go`
 
 ### Task 28
-类别：添加或规范化License信息
 
-位置：`pkg/controllers/v1alpha1/dataload/implement_test.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/ufs.go`
 
 ### Task 29
-类别：添加或规范化License信息
 
-位置：`pkg/controllers/v1alpha1/dataload/implement.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/engine_test.go`
 
 ### Task 30
-类别：添加或规范化License信息
 
-位置：`pkg/controllers/v1alpha1/dataset/dataset_controller.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/shutdown.go`
 
 ### Task 31
-类别：添加或规范化License信息
 
-位置：`pkg/controllers/v1alpha1/dataset/suite_test.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/cache.go`
 
 ### Task 32
-类别：添加或规范化License信息
 
-位置：`pkg/controllers/v1alpha1/goosefs/goosefs_runtime_controller.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/transform_init_users.go`
 
 ### Task 33
-类别：添加或规范化License信息
 
-位置：`pkg/controllers/v1alpha1/goosefs/implement.go`
+任务内容：文件头部添加或规范化License内容
 
-内容：在该文件头部添加或规范化License信息
+修改位置：`pkg/ddc/alluxio/transform_fuse_test.go`
+
+### Task 34
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/shutdown_engine_test.go`
+
+### Task 35
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/transform_optimization_test.go`
+
+### Task 36
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/runtime_info.go`
+
+### Task 37
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/create_volume.go`
+
+### Task 38
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/transform_permission.go`
+
+### Task 39
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/hcfs.go`
+
+### Task 40
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/health_check_test.go`
+
+### Task 41
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/health_check.go`
+
+### Task 42
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/ufs_test.go`
+
+### Task 43
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/transform.go`
+
+### Task 44
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/label.go`
+
+### Task 45
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/transform_init_users_test.go`
+
+### Task 46
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/delete_volume.go`
+
+### Task 47
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/transform_fuse.go`
+
+### Task 48
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/master.go`
+
+### Task 49
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/utils.go`
+
+### Task 50
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/engine.go`
+
+### Task 51
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/ufs_internal.go`
+
+### Task 52
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/transform_optimization.go`
+
+### Task 53
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/dataset.go`
+
+### Task 54
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/transform_resources_test.go`
+
+### Task 55
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/const.go`
+
+### Task 56
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/transform_hadoop_config.go`
+
+### Task 57
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/report.go`
+
+### Task 58
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/master_internal.go`
+
+### Task 59
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/transform_ufs.go`
+
+### Task 60
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/transform_volumes_test.go`
+
+### Task 61
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/runtime_info_test.go`
+
+### Task 62
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/operations/local_test.go`
+
+### Task 63
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/operations/base_test.go`
+
+### Task 64
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/operations/cached.go`
+
+### Task 65
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/operations/conf.go`
+
+### Task 66
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/operations/local.go`
+
+### Task 67
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/alluxio/operations/base.go`
+
+### Task 68
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/jindo/port_parser_test.go`
+
+### Task 69
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/jindo/deprecated_label.go`
+
+### Task 70
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/jindo/cache_test.go`
+
+### Task 71
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/jindo/worker.go`
+
+### Task 72
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/jindo/master.go`
+
+### Task 73
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/jindo/load_data_test.go`
+
+### Task 74
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/jindo/operations/cached.go`
+
+### Task 75
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/goosefs/port_parser_test.go`
+
+### Task 76
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/goosefs/utils_test.go`
+
+### Task 77
+
+任务内容：文件头部添加或规范化License内容
+
+修改位置：`pkg/ddc/goosefs/worker.go`

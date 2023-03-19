@@ -1,7 +1,7 @@
 ## 说明
 本次实验的主要内容是给每个任务中对应位置的文件添加Apache License许可证。在使用Apache License的开源项目的每个源码文件均需要添加上Apache License的通告声明：
 ```
-Copyright 2022 The Fluid Author.
+Copyright 2023 The Fluid Author.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -42,7 +42,7 @@ import (
 你需要将通告声明以**注释**的形式添加到该文件的开头。内容如下：
 ```go
 /*
-Copyright 2022 The Fluid Authors.
+Copyright 2023 The Fluid Authors.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -104,7 +104,7 @@ package goosefs
 需要规范化该通告声明，增加Copyright，改为以下内容：
 ```go
 /*
-Copyright 2022 The Fluid Authors.
+Copyright 2023 The Fluid Authors.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -130,7 +130,7 @@ package goosefs
 例如，`pkg/controllers/v1alpha1/dataload/implement_test.go`开头为：
 ```go
 /*
-Copyright 2021 The Fluid Authors.
+Copyright 2022 The Fluid Authors.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -148,10 +148,10 @@ limitations under the License.
 package dataload
 ```
 
-需要规范化该通告声明，将Copyright 2021 改为Copyright 2022，改为以下内容：
+需要规范化该通告声明，将Copyright 2022 改为Copyright 2023，改为以下内容：
 ```go
 /*
-Copyright 2022 The Fluid Authors.
+Copyright 2023 The Fluid Authors.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
